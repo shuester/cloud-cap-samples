@@ -48,5 +48,10 @@
     "hana": {
       "deploy-format": "hdbtable"
     }
-  }
+  },
+  "sapux": [
+    "app/admin-authors",
+    "app/admin-books",
+    "app/browse"
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "bootstrapPlugins": {
+    "webAssistantPlugin": {
+      "component": "sap.dfa.help.utils.adapters.fiori.Component",
+      "url": "https://webassistant-outlook.enable-now.cloud.sap/web_assistant/framework/utils/adapters/fiori/",
+      "config": {
+        "editor": "false",
+        "product": "LAUNCHPADS_BTP_CF",
+        "version": "latest",
+        "stateUACP": "PRODUCTION",
+        "dataUrlWPB": "https://education3.hana.ondemand.com/education3/wa/cflp",
+        "noHelpMode": "carousel",
+        "dataUrlUACP": "https://help.sap.com/webassistant/",
+        "resourceUrl": "https://webassistant.enable-now.cloud.sap/web_assistant/framework/",
+        "useGlobalHelp": "true",
+        "serviceLayerVersion": "UACP",
+        "showShortDescription": "false",
+        "sap-plugin-agent": true,
+        "sap-plugin-agent-id": "WAPluginAgent"
+      }
+    }
+  }
+}

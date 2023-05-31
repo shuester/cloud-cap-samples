@@ -22,6 +22,7 @@
   "devDependencies": {
     "@sap/eslint-plugin-cds": "^2.6.1",
     "axios": "^1",
+    "cds-launchpad-plugin": "^1.0.8",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-subset": "^1.6.0",
